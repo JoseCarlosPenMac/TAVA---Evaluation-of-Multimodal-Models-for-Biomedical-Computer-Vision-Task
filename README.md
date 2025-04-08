@@ -43,6 +43,11 @@ Models are compared based on:
 
 Biomedical datasets covering multiple modalities have been used, including **2D X-rays**, **3D CT scans**, and **textual data**. Publicly available datasets have been prioritized for reproducibility and accessibility.
 
+1. **XRAY-Classification**.
+2. **NIH Chest XRay**. 
+3. **VQA-RAD**.  
+4. **Slake**. 
+
 ---
 
 ## 🧪 Multimodal Innovation
