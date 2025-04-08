@@ -20,7 +20,7 @@ The evaluation emphasizes the use of **multiple modalities** and explores innova
 3. **ClipMD**: `Idan0405/ClipMD`  
 4. **BLIP2**: `Salesforce/blip2-flan-t5-xl`  
 5. **BiomedCLIP**: `microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224`  
-6. **GIT**: `microsoft/git-large`  
+6. **GiT**: `microsoft/git-large`  
 7. **SmolVLM**: `HuggingFaceTB/SmolVLM-256M-Instruct`  
 8. **BiomedVLP**: `microsoft/BiomedVLP-BioViL-T`
 
