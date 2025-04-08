@@ -33,7 +33,7 @@ These models are benchmarked across different datasets and tasks using relevant 
 Models are compared based on:
 
 - ✅ **Quantitative Performance** (task-specific metrics)  
-- **F1-score prioritization**: Instead of relying solely on accuracy as the primary evaluation metric, we chose to prioritize the F1-score, particularly for the positive class. This decision is based on the fact that, in the medical domain, it is more critical to correctly identify positive cases, minimizing false negatives — cases where a condition is present but the model fails to detect it.
+- **F1-score prioritization**: Instead of relying solely on accuracy as the primary evaluation metric, we chose to prioritize the F1-score, particularly for the positive class. This decision is based on the fact that, in the medical domain, it is more critical to correctly identify positive cases, minimizing false negatives cases where a condition is present but the model fails to detect it.
 
     Accuracy can be misleading in imbalanced datasets, which are common in medical applications. For example, if only 10% of patients have a disease, a model that always predicts "healthy" would achieve 90% accuracy but completely fail to detect any true cases. Therefore, we use the F1-score, which is the harmonic mean of precision and recall, offering a more balanced view of the model's performance, especially for the minority (positive) class.
 
