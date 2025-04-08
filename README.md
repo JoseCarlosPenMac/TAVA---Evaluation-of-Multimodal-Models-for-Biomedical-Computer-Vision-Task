@@ -57,4 +57,16 @@ The project includes experimentation with combining image and text modalities us
 To run and evaluate all models, open and execute the notebook:
 
 ```bash
-models.ipynb
+Models.ipynb
+```
+
+## ✍️ Authors
+
+This project was developed by:
+
+- Mario Jerez Tallón 
+- Francisco García Gómez
+- José Carlos Penalva Maciá
+
+Master's in Artificial Intelligence  
+**University of Alicante**
